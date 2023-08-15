@@ -35,6 +35,11 @@ Then, open your web browser and go to `http://localhost:8501` to view and intera
 
 In the text box provided, enter your instruction for the application. Then, click the "Submit" button. The application will process your instruction and generate an appropriate output, which will be displayed on the screen.
 
+## Sponser
+
+✨ Learn to build projects like this one: [BuildFast Course](https://www.buildfast.academy)
+
+
 ## License
 
 This project is licensed under the MIT License.
